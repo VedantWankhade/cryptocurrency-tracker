@@ -1,3 +1,12 @@
+# Cryptocurrency Price Tracker
+The application is live here: https://price-tracker-cryptocurrency.netlify.app/
+
+# To Do
+* Add visualizations
+  
+<br />
+<br />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
